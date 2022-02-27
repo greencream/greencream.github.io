@@ -12,7 +12,7 @@ h1 {
 	font-size: 32px;
 	color: rgb(230, 255, 255);
 	
-	font-family: 'Roboto Slab', serif;
+	font-family: 'Shippori Antique B1', sans-serif;
 }
 
 
@@ -27,7 +27,6 @@ p {
   left: 50%;
   -ms-transform: translate(-50%, -50%);
   transform: translate(-50%, -50%);
-  font-family: 'Roboto Slab', serif;
   font-family: 'Shippori Antique B1', sans-serif;
   font-size: 16px;
   color: rgba(190,190,195,255);
